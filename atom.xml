@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>时光蹉跎</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/YearsMerciless/YearsMerciless.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-02-23T08:42:13.873Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://github.com/YearsMerciless/YearsMerciless.github.io/"/>
+  <updated>2021-02-24T01:00:32.954Z</updated>
+  <id>https://github.com/YearsMerciless/YearsMerciless.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>时光蹉跎</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客名称</title>
-    <link href="http://example.com/2021/02/23/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/"/>
-    <id>http://example.com/2021/02/23/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/</id>
+    <title>时光蹉跎</title>
+    <link href="https://github.com/YearsMerciless/YearsMerciless.github.io/2021/02/23/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/"/>
+    <id>https://github.com/YearsMerciless/YearsMerciless.github.io/2021/02/23/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/</id>
     <published>2021-02-23T08:42:13.000Z</published>
-    <updated>2021-02-23T08:42:13.873Z</updated>
+    <updated>2021-02-24T01:00:32.954Z</updated>
     
     
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/02/23/hello-world/"/>
-    <id>http://example.com/2021/02/23/hello-world/</id>
+    <link href="https://github.com/YearsMerciless/YearsMerciless.github.io/2021/02/23/hello-world/"/>
+    <id>https://github.com/YearsMerciless/YearsMerciless.github.io/2021/02/23/hello-world/</id>
     <published>2021-02-23T06:34:31.375Z</published>
     <updated>2021-02-23T05:34:50.477Z</updated>
     
